@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @PavankumarPattar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PavankumarPattar/PavankumarPattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ... Python programming
+- 🌱 I’m currently learning ... "How to CODE?"
+- 💞️ I’m looking to collaborate on ... job
+- 📫 How to reach me ... pavankumarpattar1299@gmail.com
